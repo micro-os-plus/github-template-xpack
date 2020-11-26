@@ -1,2 +1,2 @@
-# template-xpack
-A template project to ease the creation of xPack source projects
+This project does not use the `master` branch, please
+switch to the `xpack` branch to get the project files.
