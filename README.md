@@ -1,6 +1,6 @@
 [![license](https://img.shields.io/github/license/micro-os-plus/template-xpack)](https://github.com/micro-os-plus/template-xpack/blob/xpack/LICENSE)
 
-# <Your title>
+# Your title here
 
 ...
 
