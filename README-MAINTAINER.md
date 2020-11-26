@@ -8,18 +8,19 @@
 
 The project is hosted on GitHub:
 
-- https://github.com/micro-os-plus/template-xpack
+- https://github.com/micro-os-plus/template-xpack.git
 
 To clone it:
 
 ```
-git clone https://github.com/eclipse-embed-cdt/eclipse-plugins \
-  eclipse-plugins.git
+git clone https://github.com/micro-os-plus/template-xpack.git \
+  template-xpack.git
 ```
 
 ## Prerequisites
 
-A recent [`xpm`](https://www.npmjs.com/package/xpm), which is a portable [Node.js](https://nodejs.org/) command line application.
+A recent [xpm](https://xpack.github.io/xpm/), which is a portable
+[Node.js](https://nodejs.org/) command line application.
 
 ## Publish to npmjs.com
 
@@ -44,6 +45,7 @@ Test the package.
 
 When the package is considered stable:
 
+- with Sourcetree
 - merge `develop` into `xpack`
 - push to GitHub
 
