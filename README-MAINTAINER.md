@@ -13,8 +13,7 @@ The project is hosted on GitHub:
 To clone it:
 
 ```
-git clone https://github.com/micro-os-plus/template-xpack.git \
-  template-xpack.git
+git clone https://github.com/micro-os-plus/template-xpack.git template-xpack.git
 ```
 
 ## Prerequisites
